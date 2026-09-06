@@ -1,0 +1,16 @@
+{
+  "name": "genpark-byzantine-fault-tolerant-quorum-validator-skill",
+  "version": "1.0.0",
+  "description": "Practical Byzantine Fault Tolerance (PBFT) 3-phase consensus pre-prepare/prepare/commit with 2f+1 quorum verification.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "pbft",
+    "byzantine",
+    "quorum",
+    "consensus",
+    "security",
+    "genpark",
+    "mcp"
+  ]
+}
